@@ -1,6 +1,6 @@
 print("Hello World")
 print("Its me")
 
-Thank You :)
+print("Thank You")
   
-Final Copy  
+print("Final Copy")  
