@@ -2,10 +2,16 @@ print("Hello World")
 print("Its me")
 
 
-WOW
+print("WOW")
 
-Wonderful
+print("Wonderful")
 
-Optimistic
+print("Optimistic")
 
-Thank You :)
+print("Thank You ")
+
+print("done my changes")
+
+
+  
+  
